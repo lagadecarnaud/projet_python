@@ -1,0 +1,36 @@
+2018-10-13 22:14:40,447 - INFO : Processing request 1
+2018-10-13 22:14:40,448 - INFO : Processing request 2
+2018-10-13 22:14:40,451 - INFO : Processing request 3
+2018-11-08 13:41:13,631 - INFO : Processing request 1
+2018-11-08 13:41:13,632 - INFO : Processing request 2
+2018-11-08 13:41:13,632 - INFO : Processing request 3
+2018-11-08 13:41:13,633 - INFO : Processing request 4
+2018-11-08 13:41:13,633 - INFO : Processing request 5
+2018-11-08 13:41:13,634 - INFO : Processing request 6
+2018-11-08 13:41:48,792 - INFO : Processing request 1
+2018-11-08 13:41:48,793 - INFO : Processing request 2
+2018-11-08 13:41:48,794 - INFO : Processing request 3
+2018-11-08 13:41:48,794 - ERROR : No protocol found in request 3
+2018-11-08 13:41:48,795 - INFO : Processing request 4
+2018-11-08 13:41:49,001 - ERROR : No value given for argument access_token in request 4
+2018-11-08 13:41:49,003 - INFO : Processing request 5
+2018-11-08 13:41:49,005 - ERROR : No protocol found in request 5
+2018-11-08 13:41:49,006 - INFO : Processing request 6
+2018-11-08 13:41:49,006 - ERROR : No protocol found in request 6
+2018-11-08 13:43:16,368 - INFO : Processing request 1
+2018-11-08 13:43:16,368 - INFO : Processing request 2
+2018-11-08 13:43:16,370 - INFO : Processing request 3
+2018-11-08 13:43:16,373 - ERROR : No protocol found in request 3
+2018-11-08 13:43:16,373 - INFO : Processing request 4
+2018-11-08 13:43:16,374 - ERROR : No value given for argument access_token in request 4
+2018-11-08 13:43:16,375 - INFO : Processing request 5
+2018-11-08 13:45:02,571 - INFO : Processing request 1
+2018-11-08 13:45:02,572 - INFO : Processing request 2
+2018-11-08 13:45:02,572 - INFO : Processing request 3
+2018-11-08 13:45:02,572 - ERROR : No protocol found in request 3
+2018-11-08 13:45:02,574 - INFO : Processing request 4
+2018-11-08 13:45:02,574 - ERROR : No value given for argument access_token in request 4
+2018-11-08 13:45:02,575 - INFO : Processing request 5
+2018-11-08 13:45:02,576 - ERROR : Missing 1 passwords in request 5
+2018-11-08 13:45:02,576 - INFO : Processing request 6
+2018-11-08 13:45:02,577 - ERROR : Missing 2 users in request 6

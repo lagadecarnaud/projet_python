@@ -1,0 +1,37 @@
+[
+  {
+    "protocol":"HTTP",
+    "access_token":"test",
+    "users":["user1"],
+    "pswds":["psww1"]
+  },
+  {
+    "protocol":"HTTP",
+    "access_token":"test",
+    "users":["user1","user2"],
+    "pswds":["psww1","pswd2"]
+  },
+  {
+    "access_token":"test",
+    "users":["user1"],
+    "pswds":["psww1"]
+  },
+  {
+    "access_token":"",
+    "protocol":"HTTP",
+    "users":["user1"],
+    "pswds":["psww1"]
+  },
+  {
+    "protocol":"HTTP",
+    "access_token":"test",
+    "users":["user1","user2"],
+    "pswds":["psww1"]
+  },
+  {
+    "protocol":"HTTP",
+    "access_token":"test",
+    "users":["user1"],
+    "pswds":["psww1","pswd2","pswd3"]
+  }
+]
